@@ -1,0 +1,15 @@
+C:\Programming\zermeloBingus\bin\Debug\net7.0\zermeloBingus.exe
+C:\Programming\zermeloBingus\bin\Debug\net7.0\zermeloBingus.deps.json
+C:\Programming\zermeloBingus\bin\Debug\net7.0\zermeloBingus.runtimeconfig.json
+C:\Programming\zermeloBingus\bin\Debug\net7.0\zermeloBingus.dll
+C:\Programming\zermeloBingus\bin\Debug\net7.0\zermeloBingus.pdb
+C:\Programming\zermeloBingus\obj\Debug\net7.0\zermeloBingus.csproj.AssemblyReference.cache
+C:\Programming\zermeloBingus\obj\Debug\net7.0\zermeloBingus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\zermeloBingus\obj\Debug\net7.0\zermeloBingus.AssemblyInfoInputs.cache
+C:\Programming\zermeloBingus\obj\Debug\net7.0\zermeloBingus.AssemblyInfo.cs
+C:\Programming\zermeloBingus\obj\Debug\net7.0\zermeloBingus.csproj.CoreCompileInputs.cache
+C:\Programming\zermeloBingus\obj\Debug\net7.0\zermeloBingus.dll
+C:\Programming\zermeloBingus\obj\Debug\net7.0\refint\zermeloBingus.dll
+C:\Programming\zermeloBingus\obj\Debug\net7.0\zermeloBingus.pdb
+C:\Programming\zermeloBingus\obj\Debug\net7.0\zermeloBingus.genruntimeconfig.cache
+C:\Programming\zermeloBingus\obj\Debug\net7.0\ref\zermeloBingus.dll
